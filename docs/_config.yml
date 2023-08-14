@@ -21,11 +21,12 @@
 title: Aviv Weinstein
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-I am trying to build out a small blog website using Github's hosted pages.
+  This is my website!
 baseurl: "avivweinstein.github.io" # the subpath of your site, e.g. /blog
 url: "https://avivweinstein.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "avivweinstein.github.io"
-github_username:  avivweinstein
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 theme: minima
